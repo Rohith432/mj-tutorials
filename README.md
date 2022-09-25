@@ -53,4 +53,14 @@ primary key(user_id,course_id));
 ![image](https://user-images.githubusercontent.com/52595620/192143793-88efb64b-d47a-4a75-acb4-748da0dbdd50.png)
 login page
 
+![image](https://user-images.githubusercontent.com/52595620/192143851-f80470e3-624a-40e9-bcd9-37798abb3cf3.png)
+Registration page 
 
+![image](https://user-images.githubusercontent.com/52595620/192143864-6256c7ec-48d1-4d11-8f35-ce0a8086d448.png)
+Home page
+
+![image](https://user-images.githubusercontent.com/52595620/192143873-97fdc5bd-29cc-4f44-a6a7-8b4e3122bb2e.png)
+Content page
+
+![image](https://user-images.githubusercontent.com/52595620/192143885-3aafdef8-6a38-4336-979d-4b703f251ddf.png)
+Inserting courses page
